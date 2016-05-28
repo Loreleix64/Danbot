@@ -1,10 +1,3 @@
-##############################################################################################
-# Made in 2016 by RgTQUg
-# Honestly, I really don't care what you do with this, as long as you don't claim you made it.
-# If you use it, link back to the github page, so other people can, too.
-# Or you can expand on this and do whatever for yourself, I don't mind.
-##############################################################################################
-
 import time
 import requests
 import tweepy
